@@ -1,11 +1,7 @@
 # souptastic
 
-TODO:
-tinder stuff
-render images
-upload CAD
-finish Zine
-write readme   
+<img width="409" height="624" alt="Untitled(4)" src="https://github.com/user-attachments/assets/531703f5-9341-42eb-a81b-e1bd2179d84d" />   
+
 
 This is Souptastic, a desk pet and fun video player! It sits on your desk and has Soup's likeness trapped inside!   
 Loaded with fun scenes and animations, it is sure to make your desk feel more alive.   
