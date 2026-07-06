@@ -1,2 +1,2 @@
 # souptastic
-Desk pet modelled after Soup, the mascot of Fallout. Contains a camera, screen, sound and much more.
+Tinder for Soup and Soup-like individuals looking to find the love of their life!
