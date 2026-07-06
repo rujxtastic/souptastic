@@ -1,2 +1,8 @@
 # souptastic
-Tinder for Soup and Soup-like individuals looking to find the love of their life!
+
+TODO:
+tinder stuff
+render images
+upload CAD
+finish Zine
+write readme
